@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_c93d26aa45e9f22a2b62db9561db034cfaacbc1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_efff3eb22cf63e4cc3d99e0dd7f45cda12a23327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="247b4472f06c3efc72faa27c47c6ff99c0ca487b">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_42b5074355c2a56f8e43a628ae5d3d2465b39289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_4c39660f90c909830d50e5522faed084049e279d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_6ca2c45103a7dfd0939b9200a0c957abfc5ea9db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_c970aa2bcf84a0ada96854e47f59b0d79cb18b7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="217a2c7dc56df83fc672cfe14ef443e9ed6d04a3">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1d5c8af2ab1b7f6a85d0fb96ac5db3b59fa58e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0827d207082396dd565f457800aec0229e0ba0d5">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ea4756617c34d1cb2ac4bd0cc575e1bfe05b1f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_d196474c892ed18b1c332cac13f92cb46b196318\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a6477c06418d6a575ad747907b2ea61188e51c16">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f933ffcf837cd3c3e0cc4374d1da8fd8782fccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Arduino\HC05\LED\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Arduino\HC05\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d3a480a69ab0161db9128d4afaf34bda77a4a489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0c79f0b722be8a940f5824cefd4b8e14774513df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fc18a0fdc80391aaf9a93e629f1a6f03cf6a9cf4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_e9fa19316bfbcd2e0110fdfa00eaf578bd55f050\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\LED\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Android\LED\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ab5bd2818d1aa72786c27c0e1ccfafd50d1a4fb0\classes.dex" />
+    </item>
+
+</items>
